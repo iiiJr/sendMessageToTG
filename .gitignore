@@ -15,4 +15,3 @@ tmp/
 
 # 忽略特定的 .doc 文件
 document.doc
-package.json
