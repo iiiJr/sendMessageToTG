@@ -1,0 +1,17 @@
+# 忽略 node_modules 文件夹
+node_modules/
+
+# 忽略所有的 .log 文件
+*.log
+
+# 忽略配置文件
+config.json
+
+# 但保留 config.production.json
+!config.production.json
+
+# 忽略所有的 .tmp 文件夹
+tmp/
+
+# 忽略特定的 .doc 文件
+document.doc
